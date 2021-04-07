@@ -51,3 +51,7 @@
 	    background: #FFFEEB;
 	    font-family: 'Lobster', cursive;
 	    }
+    h2.centro {
+              text-align: center;
+              color: red;\
+              }
